@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_em3_1vx_tx">
+    <title>Momma's Sausage Links</title>
+    <shortdesc>This recipe is for sausage, which is a spicy ground meat, specifically pork, that is
+        stuffed into a narrow tube of skin.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_ps2_hwx_tx"><fig id="fig_ok4_nwx_tx">
+                <title>Literally, Lovely Links</title>
+                <image placement="break" href="i-sausage-links.jpg" scale="50" align="left"
+                    id="image_m5t_syc_5x"/>
+            </fig>You will need the following ingredients:<ul id="ul_thx_4wx_tx">
+                <li>8 ounces of breakfast sausage (8 links)</li>
+                <li>2 tablespoons of water</li>
+                <li>½ tablespoon of unsalted butter</li>
+            </ul></prereq>
+        <context>This recipe is adapted from the Food Network cookbook <i>How to Boil Water: Life
+                Beyond Takeout</i>.</context>
+        <steps>
+            <step>
+                <cmd>Place the sausage in a skillet just large enough to hold them in a single
+                    layer</cmd>
+            </step>
+            <step>
+                <cmd>Add the water, cover, and cook over medium heat for 3 minutes</cmd>
+            </step>
+            <step>
+                <cmd>Uncover, add the butter, and increase the heat to high</cmd>
+            </step>
+            <step>
+                <cmd>Cook until sausage is golden and butter just begins to brown, about 4
+                    minutes</cmd>
+            </step>
+            <step>
+                <cmd>Serve hot and enjoy!</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

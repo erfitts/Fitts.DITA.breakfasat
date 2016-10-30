@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>Armando's Cookbook</title>
+ <topicref href="c-breakfast-welcome.dita"/>
+ <topicref href="c-vegan.dita"/>
+ <topicref href="r-armando-recipes.dita">
+  <topicref href="t-peanut-butter-toast.dita"/>
+  <topicref href="t-cereal.dita"/>
+  <topicref href="t-oatmeal.dita"/>
+  <topicref href="t-smoothie.dita"/>
+ </topicref>
+</map>

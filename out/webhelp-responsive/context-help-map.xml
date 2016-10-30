@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="concept_hs4_jsc_5x" path="c-breakfast-welcome.html"/>
+   <appContext helpID="concept_zsr_jtc_5x" path="c-vegan.html"/>
+   <appContext helpID="topic_jpt_xzc_5x" path="r-armando-recipes.html"/>
+   <appContext helpID="task_nmg_1nc_5x" path="t-peanut-butter-toast.html"/>
+   <appContext helpID="task_gyx_g4c_5x" path="t-cereal.html"/>
+   <appContext helpID="task_f5s_qpc_5x" path="t-oatmeal.html"/>
+   <appContext helpID="task_h3l_vqc_5x" path="t-smoothie.html"/>
+</map>

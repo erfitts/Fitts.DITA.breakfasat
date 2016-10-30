@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_h3l_vqc_5x">
+    <title>Smoothie Queen</title>
+    <shortdesc>This recipe is for a smoothie, which is a creamy beverage made of fruit blended with
+        juice, milk, or yogurt.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_dbg_crc_5x"><fig id="fig_erz_2rc_5x">
+                <title>Smashing Smoothie</title>
+                <image placement="break" href="i-smoothie.jpg" scale="50" align="left"
+                    id="image_cdw_4yc_5x"/>
+            </fig>You will need the following ingredients:<ul id="ul_m1c_hrc_5x">
+                <li>1 very ripe banana—frozen is great</li>
+                <li>1 cup of frozen berries, such as strawberries, raspberries, or blackberries</li>
+                <li>½ cup or one 6-ounce container of plain, vanilla, or lemon low-fat, vegan
+                    yogurt</li>
+                <li>½ cup of orange juice, juice blend, or chilled green tea</li>
+                <li>2 ounces of soft tofu<option>(optional—for vegan smoothie
+                    drinkers)</option></li>
+                <li>1 to 2 tablespoons of honey or to taste</li>
+            </ul></prereq>
+        <context>This recipe is adapted from the Food Network cookbook <i>How to Boil Water: Life
+                Beyond Takeout</i>.</context>
+        <steps>
+            <step>
+                <cmd>Put everything in a blender and puree until smooth</cmd>
+            </step>
+            <step>
+                <cmd>Pour into 2 tall glasses and serve</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_gyx_g4c_5x">
+    <title>Breakfast Cereal</title>
+    <shortdesc>This recipe is for an American breakfast staple, cereal with milk.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_pjy_q4c_5x">
+            <fig id="fig_szk_bpc_5x">
+                <title>Childhood Cereal</title>
+                <image placement="break" href="i-cereal.jpg" scale="50" align="left"
+                    id="image_rtg_mbd_5x"/>
+                <p>You will need the following ingredients:<ul id="ul_fbr_cpc_5x">
+                        <li>a box of cereal</li>
+                        <li>non-dairy milk</li>
+                    </ul></p>
+            </fig>
+        </prereq>
+        <context>This recipe is adapted from the author's childhood memories of making cereal before
+            elementary and secondary school.<p/></context>
+        <steps>
+            <step>
+                <cmd>Pour cereal from box into a bowl</cmd>
+            </step>
+            <step>
+                <cmd>Pour the non-dairy milk into bowl of cereal<option>—For non-vegans, consider
+                        using dairy-based milk instead</option></cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

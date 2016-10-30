@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>Mother's Cookbook</title>
+ <topicref href="c-breakfast-welcome.dita"/>
+ <topicref href="c-american-breakfast.dita"/>
+ <topicref href="r-mom-recipes.dita">
+  <topicref href="t-pancakes.dita"/>
+  <topicref href="t-breakfast-sausage.dita"/>
+  <topicref href="t-skillet-bacon.dita"/>
+  <topicref href="t-smoothie.dita"/>
+ </topicref>
+</map>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_w5w_blw_tx">
+    <title>Momma's Pancake Breakfast</title>
+    <shortdesc>This recipe is for pancakes, which are thin, flat, round cakes made by cooking batter
+        on both sides in a skillet.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_jcj_glw_tx"><fig id="fig_avl_nvw_tx">
+                <title>Pretty, Perfect Pancakes</title>
+                <image placement="break" href="i-pancakes.jpg" scale="50" align="left"
+                    id="image_lln_5yc_5x"/>
+            </fig>You will need the following ingredients:<ul id="ul_rgr_ysw_tx">
+                <li>1 ½ cups of all-purpose flour</li>
+                <li>3 tablespoons of sugar</li>
+                <li>1 tablespoon of baking powder</li>
+                <li>¼ teaspoon of salt</li>
+                <li>1/8 teaspoon of freshly ground nutmeg</li>
+                <li>2 large eggs at room temperature</li>
+                <li>1 ¼ cups of milk at room temperature</li>
+                <li>½ teaspoon of pure vanilla extract</li>
+                <li>3 tablespoons of unsalted butter, plus more as needed</li>
+            </ul></prereq>
+        <context>This recipe is adapted from the Food Network's pancake recipe.</context>
+        <steps>
+            <step>
+                <cmd>Whisk together the flour, sugar, baking powder, salt, and nutmeg in a large
+                    bowl</cmd>
+            </step>
+            <step>
+                <cmd>Beat the eggs in another large bowl and then whisk in the milk and
+                    vanilla</cmd>
+            </step>
+            <step>
+                <cmd>Melt the butter in a large cast iron skillet or griddle over medium heat</cmd>
+            </step>
+            <step>
+                <cmd>Whisk the butter into the milk mixture</cmd>
+            </step>
+            <step>
+                <cmd>Add the wet ingredients to the flour mixture, and whisk until a thick batter is
+                    just formed</cmd>
+            </step>
+            <step>
+                <cmd>Ladle about ¼ cup of the batter onto the skillet at medium heat to make a
+                    pancake</cmd>
+            </step>
+            <step>
+                <cmd>Make 1 or 2 more pancakes, taking care to keep them evenly spaced apart</cmd>
+                <substeps id="substeps_yb4_4qw_tx">
+                    <substep>
+                        <cmd>Cook for about 2 minutes or until bubbles break the surface of the
+                            pancakes and the undersides are golden brown</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Flip with a spatula and cook about 1 minute more on the second
+                            side</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Serve immediately and enjoy!</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

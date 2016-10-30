@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_j2f_jtx_tx">
+    <title>Momma's Skillet-Cooked Bacon</title>
+    <shortdesc>This recipe is for bacon, which are thin strips of salted and smoked meat from the
+        sides and back of a pig.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_fj4_rtx_tx"><fig id="fig_ahv_ztx_tx">
+                <title>Beautiful, Brown Bacon</title>
+                <image placement="break" href="i-bacon.jpg" scale="50" align="left"
+                    id="image_esf_ryc_5x"/>
+            </fig>You will need the following ingredient:<ul>
+                <li>8 ounces of bacon</li>
+            </ul></prereq>
+        <context>This recipe is adapted from the Food Network cookbook <i>How to Boil Water: Life
+                Beyond Takeout</i>.</context>
+        <steps>
+            <step>
+                <cmd>Separate the strips of bacon and lay them in a single layer in a skillet</cmd>
+            </step>
+            <step>
+                <cmd>Set the pan over medium heat and cook until the bacon shrivels some and browns
+                    on the bottom for about 3 minutes</cmd>
+            </step>
+            <step>
+                <cmd>Turn the strips over and rotate them from the outside of the pan to the
+                    inside</cmd>
+            </step>
+            <step>
+                <cmd>Cook on the other side for about 6 minutes for the ultimate crisp-factor</cmd>
+            </step>
+            <step>
+                <cmd>Drain cooked bacon on a plate lined with paper towels</cmd>
+            </step>
+            <step>
+                <cmd>Serve hot or at room temperature and enjoy!</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

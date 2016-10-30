@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_j2f_d5c_5x">
+ <title>American Breakfast</title>
+ <shortdesc>While the typical American spread of potatoes, fried eggs, toast and the like might seem
+  a bit heavy compared to how other countries eat breakfast, an American breakfast is, just like the
+  United States of America itself, number one! </shortdesc>
+ <conbody>
+  <fig id="fig_dpn_gvc_5x">
+   <title>Leslie Knope and Ron Swanson's Breakfast Bonding</title>
+  </fig>
+    <image placement="break" href="i-american-breakfast.jpg" scale="75" align="left"
+      id="image_bxk_bzc_5x"/>
+  <p>These are a few food items that could be considered part of a traditional American breakfast:<ul
+    id="ul_zhr_p5c_5x">
+    <li>coffee</li>
+    <li>milk</li>
+    <li>tea</li>
+    <li>juice</li>
+    <li>breakfast cereals</li>
+    <li>pancakes</li>
+    <li>waffles</li>
+    <li>sausages</li>
+    <li>French toast</li>
+    <li>bacon</li>
+    <li>sweetened breads</li>
+    <li>fresh fruits</li>
+    <li>vegetables</li>
+    <li>eggs</li>
+    <li>baked beans</li>
+    <li>muffins</li>
+    <li>crumpets</li>
+    <li>toast</li>
+   </ul></p>
+ </conbody>
+</concept>

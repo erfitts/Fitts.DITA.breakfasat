@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_nmg_1nc_5x">
+    <title>Peanut Butter Toast and Fruit</title>
+    <shortdesc>This recipe is for a quick and easy breakfast of toasted bread with delicious
+        fruit.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_snh_gnc_5x"><fig id="fig_vps_24c_5x">
+                <title>Tasty Toast</title>
+                <image placement="break" href="i-peanut-butter-toast.jpg" scale="50" align="left"
+                    id="image_uwv_qbd_5x"/>
+            </fig>You will need the following ingredients:<ul id="ul_ghd_hnc_5x">
+                <li>1 slice of whole grain bread (gluten-free if needed)</li>
+                <li>½ tablespoons of peanut butter</li>
+                <li>fruit toppings of choice: banana slices, strawberries, sliced apples, etc.</li>
+            </ul></prereq>
+        <context>This recipe is adapted from Eating Bird Food's <i><xref
+                    href="http://www.eatingbirdfood.com/peanut-butter-breakfast-toast-4-ways/"
+                    format="html" scope="external">Peanut Butter Breakfast Toast</xref></i>
+            article.</context>
+        <steps>
+            <step>
+                <cmd>Toast the whole grain bread</cmd>
+            </step>
+            <step>
+                <cmd>Spread on the peanut butter in even strokes</cmd>
+            </step>
+            <step>
+                <cmd>Sprinkle on your choice of fruit toppings<option>—For non-vegans, consider
+                        drizzling honey over the peanut butter toast for a burst of
+                    flavor</option></cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

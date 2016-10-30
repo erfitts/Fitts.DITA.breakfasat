@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_hs4_jsc_5x">
+ <title>Good Morning!</title>
+ <shortdesc>As everyone in American society knows, breakfast is the most important meal of the day!
+  Breakfast gives people the fuel needed to charge up so they can go about their day full of
+  energy.</shortdesc>
+ <conbody>
+  <p><image placement="break" href="i-family-breakfast.jpg" scale="75" align="left"
+    id="image_djj_zyc_5x"/>This cookbook will provide you with various breakfast options tailored to
+   your specific diet. The recipes in the cookbook are easy to learn; you will definitely master
+   them quickly! Remember, cooking is fun for the whole family. Let's eat!</p>
+ </conbody>
+</concept>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_f5s_qpc_5x">
+    <title>Oh, My Oatmeal!</title>
+    <shortdesc>This recipe is for oatmeal, which is a hot breakfast made from oats.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_jnv_cqc_5x"><fig id="fig_kgh_kqc_5x">
+                <title>Playful Porridge</title>
+                <image placement="break" href="i-oatmeal.jpeg" scale="50" align="left"
+                    id="image_k5h_kbd_5x"/>
+            </fig>You will need the following ingredients:<ul id="ul_azp_mqc_5x">
+                <li>1 tablespoon of unsalted butter</li>
+                <li>1 large pinch kosher salt</li>
+                <li>1 ½ cups of water</li>
+                <li>1 cup of quick-cooking oats</li>
+                <li>1 orange or lemon</li>
+                <li>1 handful fresh or dried fruit</li>
+                <li>brown sugar</li>
+                <li>milk</li>
+                <li>1 handful of nuts</li>
+            </ul></prereq>
+        <context>This recipe is adapted from the Food Network cookbook <i>How to Boil Water: Life
+                Beyond Takeout</i>.</context>
+        <steps>
+            <step>
+                <cmd>Combine the butter, salt, and water in a small saucepan and bring to a
+                    boil</cmd>
+            </step>
+            <step>
+                <cmd>Finely grate the citrus zest into the pan</cmd>
+            </step>
+            <step>
+                <cmd>Bring to a boil again, reduce to a simmer, and stir in fruit</cmd>
+            </step>
+            <step>
+                <cmd>Stir constantly until oats are cooked and dried fruit is slightly plumped for 2
+                    minutes</cmd>
+            </step>
+            <step>
+                <cmd>Divide into 2 bowls and sprinkle with sweetener of your choice</cmd>
+            </step>
+            <step>
+                <cmd>Drizzle with non-dairy milk and top off with nuts</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
